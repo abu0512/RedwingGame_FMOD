@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{f5c56927-f3ed-48e4-9674-fbcea6468819}">
+        <property name="name">
+            <value>CrackSkill</value>
+        </property>
+        <relationship name="folder">
+            <destination>{571c5e17-a7f8-4ad5-8695-2469dabdfed2}</destination>
+        </relationship>
+    </object>
+</objects>

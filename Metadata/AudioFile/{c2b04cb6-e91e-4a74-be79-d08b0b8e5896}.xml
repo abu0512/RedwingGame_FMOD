@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c2b04cb6-e91e-4a74-be79-d08b0b8e5896}">
+        <property name="assetPath">
+            <value>Foot_Conc_ShoesRun20_1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.048503401360544221</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{81bd66c4-6b88-4a2f-9ab5-2fd641e7186e}</destination>
+        </relationship>
+    </object>
+</objects>
